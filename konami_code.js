@@ -15,4 +15,6 @@ function init(){
         }
      }
   }
-};
+)}
+
+init();
